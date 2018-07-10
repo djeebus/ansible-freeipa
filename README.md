@@ -15,12 +15,10 @@ For now only FreeIPA versions 4.5 and up are supported. The client role should a
 =======
 Supported Distributions
 -----------------------
->>>>>>> upstream/master
 
 * RHEL/CentOS 7.4+
 * Fedora 26+
 
-<<<<<<< HEAD
 [Server](SERVER.md)
 =======
 Roles
@@ -32,4 +30,3 @@ Roles
 
 Examples
 --------
->>>>>>> upstream/master
